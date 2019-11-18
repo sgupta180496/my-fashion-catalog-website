@@ -1,0 +1,65 @@
+{
+	"name": "METAL MICRO-BAG",
+	"brand": "Dolce & Gabbana",
+	"description": "Metal Sicily micro-bag with a vintage brass finish. A small, feminine accessory that is well-finished in every detail, to be worn around the wrist or as a necklace. This small minaudiere opens up to allow for little objects. The item is equipped with special packaging. Measurement: 4.6 x 5 x 1.4 cm. Made in Italy",
+	"material": "100% Brass",
+	"colours": "Gold",
+	"price": 1145
+}
+
+{
+	"name": "The Classic Check Cashmere Scarf",
+	"brand": "Burberry",
+	"description": "The Classic Cashmere Scarf in check is made at a 200-year-old mill in the Scottish countryside. Using 30 different steps, the scarf is woven on traditional looms. The fabric is washed in local spring water and carefully brushed with teasels for a super-soft finish.",
+	"material": "100% cashmere",
+	"colours": "Archive Beige",
+	"price": 470
+}
+
+{
+	"name": "Medium Eden Bag",
+	"brand": "Givenchy",
+	"description": "Buffed calfskin shoulder bag in black. Detachable and adjustable shoulder strap with D-ring hardware and post-stud fastening. Gold-tone logo stamp, tonal stitched detailing, and logo hardware at face. Patch pocket at back face. Foldover flap with turn-lock fastening at main compartment. Gold-tone logo stamp, patch pocket, and card slot at interior. Buffed calfskin lining in burgundy. Gold-tone hardware. Approx. 9.25" length x 8" height x 3.25" width.",
+	"material": "100% Brass",
+	"colours": "Smooth leather",
+	"price": 2690
+	
+}
+
+{
+	"name": "Leather belt with Double G buckle for Women",
+	"brand": "Gucci",
+	"description": "The most straightforward way to avoid counterfeits or dodgy service is to go straight to the designer - our fave best-priced women’s Gucci belt is from their site too. In a black leather with antique brass double G buckle, this is a stunning alternative to the over-worn popular style. It’s also cheaper - win win. It already has a vintage vibe so the longer you have this, we know it’ll only become even more valuable and beautiful. See it as a fashionable investment.",
+	"material": "Leather",
+	"colours": "Black, Brown, Blue",
+	"price": 460
+}
+
+{
+	"name": "Boy Chanel Handbag",
+	"brand": "Chanel",
+	"description": "The Boy Bag was inspired by Gabrielle “Coco” Chanel’s tendency to play with masculine accent in her style. Karl Lagerfeld described it as such, “Chanel used men’s underwear to make dresses; she has a boyish attitude, in fact it is the very spirit of Chanel. She got it from Boy Capel, the greatest love of her life, which, incidentally, explains why the new bag is called the Boy Chanel.” However, the Boy Bag isn’t overwhelmingly masculine as one would suspect, although it does feature a distinctive utilitarian feel in comparison with the very feminine classic flap. The structure of the Boy Bag is boxier with straight lines and angular corners, making it look like a modern version of the Chanel Classic flap. It is the perfect blend of the chic timelessness associated with all Chanel bags and the boldness that Chanel is well known for. The large front flap on the Boy Bag is one of the main features and allows Chanel to embellish a range of designs that they don’t have the space for on classic bags. This allows the Boy Bag to evolve season on season, with changes to designs, styles, and materials occurring regularly. In fact, the possibilities when designing a Boy Bag are endless and this is one of the main attractions for collectors and Chanel lovers. Add to this the functionality and versatility of the bag and it is clearly a winner. It can be worn over the shoulder or across the body, as a casual or a formal bag, and features enough interior space to fit in all your essentials.",
+	"material": "Calfskin & Gold-Tone Metal",
+	"colours": "Black, Blue, Brown, Gold, Gray, Green, Ivory, Multi-Color",
+	"price": 5400
+}
+
+{
+	"name": "HOODED CAPE",
+	"brand": "Louis Vuitton",
+	"description": "Elegant yet casual, this hooded piece underlines the season’s focus on capes. The stylish piece is tailored from double wool fabric, with a woven jacquard Monogram motif on the inside. Details include leather trimming, an overstitched leather button tab on the front and faux leather laces with Monogram canvas tips.",
+	"material": "99% Wool 1% Silk, 100% Polyester Lamb",
+	"colours": "Noir Blanc, Black",
+	"price": 4700
+}
+
+{
+	"name": "SYSL VARSITY JACKET IN EMBROIDERED VELVET",
+	"brand": "Saint Laurent",
+	"description": "VARSITY JACKET DECORATED WITH EMBROIDERED STARS AND MIRRORS ON FRONT AND BACK, ALONG WITH A YSL LOGO ON BACK. CUPRO AND COTTON LINING, SNAP CLOSURE, SNAP BUTTON CLOSURE, TWO FRONT POCKETS, ONE INTERIOR POCKET, RIBBED COLLAR AND WAISTBAND SET WITH SEQUINS AND LUREX",
+	"material": "65% VISCOSE, 35% CUPRO",
+	"colours": "Black",
+	"price": 5900
+}
+
+

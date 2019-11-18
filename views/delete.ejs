@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<header>
+  <nav>
+    <ul>
+      <li><a  href="/">Post</a></li>
+      <li><a  href="get">Search</a></li>
+      <li><a class="active" href="delete">Delete</a></li>
+    </ul>
+  </nav>
+  <link rel="stylesheet" href="../styles/normalize.css">
+  <link rel="stylesheet" href="../styles/custom.css">
+  <h1>MY FASHION CATALOG</h1>
+</header>
+<body>
+<div id='get'>
+  <table id="customers">
+  <tr>
+    <th>Select</th>
+    <th>ID</th>
+    <th>Name</th>
+    <th>Brand</th>
+    <th>Description</th>
+    <th>Material</th>
+    <th>Price</th>
+    <th>Colours</th>
+  </tr>
+    <% data.forEach(function(obj){ %>
+    <tr>
+      <td>
+      <form  action="/delete/<%=obj._id%>" method="get">
+        <button class="button delete">Delete</button>
+      </form>
+      </td>
+      <td><%=obj._id%></td>
+      <td><%=obj.name%></td>
+      <td><%=obj.brand%></td>
+      <td><%=obj.description%></td>
+      <td><%=obj.material%></td>
+      <td><%=obj.price%></td>
+      <td><%=obj.colours%></td>
+    </tr>
+    <%});%>
+</table>
+
+</div>
+
+</body>
+</html>
