@@ -8,7 +8,7 @@ I have hosted this website using heroku and following are the links to interact 
 get(shows all the data in the database): https://my-fashion-ui.herokuapp.com/get
 <br>
 <br>
-post(allows to add data in the database): https://my-fashion-ui.herokuapp.com/post
+post(allows to add data in the database): https://my-fashion-ui.herokuapp.com
 <br>
 <br>
 delete(allows you to delete a record corresponding to an id): https://my-fashion-ui.herokuapp.com/delete
